@@ -1,0 +1,95 @@
+{
+    "basics": {
+      "name": "Anthony Singiser",
+      "label": "",
+      "image": "",
+      "email": "asingiser@gmail.com",
+      "website": "https://github.com/anthonysingiser",
+      "summary": "",
+      "location": {
+        "countryCode": "US",
+        "address": "Philadelphia, PA"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "",
+          "url": ""
+        },
+        {
+          "network": "Github",
+          "username": "",
+          "url": ""
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "",
+        "endDate": "",
+        "highlights": [],
+        "position": "",
+        "startDate": "",
+        "summary": "",
+        "website": ""
+      }
+      
+    ],
+    "volunteer": [
+      {
+        "organization": "",
+        "position": "",
+        "website": "",
+        "startDate": "",
+        "endDate": "",
+        "summary": null,
+        "highlights": []
+      }
+    ],
+    "education": [
+      {
+        "institution": "",
+        "area": "",
+        "studyType": "",
+        "startDate": "",
+        "endDate": "",
+        "gpa": "",
+        "courses": []
+      }
+    ],
+    "skills": [
+      {
+        "keywords": [
+          ""
+        ],
+        "level": "",
+        "name": ""
+      },
+      {
+        "keywords": [
+          ""
+        ],
+        "level": "",
+        "name": ""
+      },
+      {
+        "keywords": [
+          ""
+        ],
+        "level": "",
+        "name": ""
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "flag": "🇺🇸",
+        "fluency": "Fluent"
+      }
+    ],
+    "interests": [
+      {
+        "name": ""
+      }
+    ]
+  }
