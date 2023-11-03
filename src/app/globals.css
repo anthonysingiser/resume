@@ -25,3 +25,11 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.section {
+  @apply mb-8;
+}
+
+.section div.mb-4:last-child {
+  margin-bottom: 0;
+}

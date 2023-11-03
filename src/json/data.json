@@ -1,8 +1,8 @@
 {
     "basics": {
       "name": "Anthony Singiser",
-      "label": "",
-      "image": "",
+      "label": "Developer",
+      "image": "https://avatars.githubusercontent.com/u/86790531?v=4",
       "email": "asingiser@gmail.com",
       "website": "https://github.com/anthonysingiser",
       "summary": "",
@@ -19,7 +19,7 @@
         {
           "network": "Github",
           "username": "",
-          "url": ""
+          "url": "https://github.com/anthonysingiser"
         }
       ]
     },
@@ -63,21 +63,21 @@
           ""
         ],
         "level": "",
-        "name": ""
+        "name": "Frontend"
       },
       {
         "keywords": [
           ""
         ],
         "level": "",
-        "name": ""
+        "name": "Backend"
       },
       {
         "keywords": [
           ""
         ],
         "level": "",
-        "name": ""
+        "name": "Extra"
       }
     ],
     "languages": [
@@ -92,4 +92,4 @@
         "name": ""
       }
     ]
-  }
+}
