@@ -14,7 +14,7 @@
         {
           "network": "LinkedIn",
           "username": "",
-          "url": ""
+          "url": "https://www.linkedin.com/in/anthonysingiser/"
         },
         {
           "network": "Github",
@@ -25,13 +25,40 @@
     },
     "work": [
       {
-        "company": "",
+        "company": "ai-prompts-wheat.vercel.app",
+        "endDate": "Vercel",
+        "highlights": [""],
+        "position": "AI-Prompts",
+        "startDate": "JS React Next.js OAuth TailwindCSS",
+        "summary": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quibusdam.",
+        "website": "https://ai-prompts-wheat.vercel.app/"
+      },
+      {
+        "company": "anthonysingiser.github.io/trip-tutor",
         "endDate": "",
         "highlights": [],
-        "position": "",
-        "startDate": "",
-        "summary": "",
-        "website": ""
+        "position": "Trip Tutor",
+        "startDate": "JS React Next.js MUI",
+        "summary": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quibusdam.",
+        "website": "https://anthonysingiser.github.io/trip-tutor/"
+      },
+      {
+        "company": "anthonysingiser.github.io/newsletter",
+        "endDate": "",
+        "highlights": [],
+        "position": "Newsletter",
+        "startDate": "JS React Next.js MUI",
+        "summary": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quibusdam.",
+        "website": "https://anthonysingiser.github.io/newsletter/"
+      },
+      {
+        "company": "anthonysingiser.github.io/emojiweather",
+        "endDate": "",
+        "highlights": [],
+        "position": "Emoji Weather",
+        "startDate": "JS React",
+        "summary": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quibusdam.",
+        "website": "https://anthonysingiser.github.io/emoji-weather/"
       }
       
     ],
