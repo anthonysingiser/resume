@@ -35,7 +35,7 @@
       },
       {
         "company": "anthonysingiser.github.io/trip-tutor",
-        "endDate": "",
+        "endDate": "API",
         "highlights": [],
         "position": "Trip Tutor",
         "startDate": "JS React Next.js MUI",
@@ -44,19 +44,19 @@
       },
       {
         "company": "anthonysingiser.github.io/newsletter",
-        "endDate": "",
+        "endDate": "MUI",
         "highlights": [],
         "position": "Newsletter",
-        "startDate": "JS React Next.js MUI",
+        "startDate": "JS React Next.js",
         "summary": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quibusdam.",
         "website": "https://anthonysingiser.github.io/newsletter/"
       },
       {
         "company": "anthonysingiser.github.io/emojiweather",
-        "endDate": "",
+        "endDate": "CSS",
         "highlights": [],
         "position": "Emoji Weather",
-        "startDate": "JS React",
+        "startDate": "JS React HTML",
         "summary": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quibusdam.",
         "website": "https://anthonysingiser.github.io/emoji-weather/"
       }
@@ -64,7 +64,7 @@
     ],
     "volunteer": [
       {
-        "organization": "",
+        "organization": "organizations",
         "position": "",
         "website": "",
         "startDate": "",
@@ -87,24 +87,10 @@
     "skills": [
       {
         "keywords": [
-          ""
+          "JS","React","Next.js","API","MUI","TailwindCSS","OAuth","HTML","CSS"
         ],
         "level": "",
-        "name": "Frontend"
-      },
-      {
-        "keywords": [
-          ""
-        ],
-        "level": "",
-        "name": "Backend"
-      },
-      {
-        "keywords": [
-          ""
-        ],
-        "level": "",
-        "name": "Extra"
+        "name": ""
       }
     ],
     "languages": [
